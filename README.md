@@ -33,10 +33,10 @@ An end-to-end machine learning system for detecting anomalies in tabular data us
 ## 📸 Demo
 
 ### Uploaded Data
-![Upload](images/upload.png)
+![Upload](upload.png)
 
 ### Results
-![Results](images/results.png)
+![Results](results.png)
 
 
 
